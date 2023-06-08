@@ -1,0 +1,13 @@
+{
+    "SERVER_ERROR": "Server internal error, please try again later",
+    "INVALID_PASSWORD": "Password wrong",
+    "USER_NOT_FOUND": "User or email not found",
+
+    "FIELD_REQUIRED": "{field} must be filled",
+    "FIELD_MIN": "{field} minimal {min} character",
+    "FIELD_CONFIRM": "{field_confirm} doesnt match with {field}",
+    "EMAIL_INVALID": "email is invalid",
+    "EMAIL_EXIST": "Email is exist",
+    "DONT_HAVE_ACCOUNT": "Don't have an account yet ?",
+    "HAVE_ACCOUNT": "Already have an account ?"
+}
